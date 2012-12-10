@@ -29,6 +29,7 @@ My goal for the second project was to formulate and tackle a problem that I didn
 Here are links to my two mini-project papers.
 
 Mini-project 1: https://github.com/jpermar/gt6601learningportfolio/blob/master/papers/paper1.pdf
+
 Mini-project 2: https://github.com/jpermar/gt6601learningportfolio/blob/master/papers/paper2.pdf
 
 3) Course Recommendation
